@@ -1,6 +1,6 @@
 cask "rootkey-cli" do
-  version "1.11.2"
-  sha256 "a6bc392cff8a34d918af9c24effb0fe4001c95a0645c1cf6083f7348017d0465"
+  version "1.12.0"
+  sha256 "9d65b97ac313e5726f5aac810f925425bb8229562d33037c5c959487fa9e4803"
 
   url "https://rootkey.bitbeam.cn/downloads/rootkey-cli-#{version}-macos-arm64.tar.gz"
   name "RootKey CLI"
